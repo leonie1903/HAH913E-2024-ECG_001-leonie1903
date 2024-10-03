@@ -1,3 +1,14 @@
+#This exercise is part of the HAH913E course unit, aimed at enhancing our skills in using GitHub for version control and collaborative projects. The objectives of this exercise include:
+
+Understanding Version Control: Learning how to track changes in our code and collaborate effectively with others.
+Utilizing GitHub Features: Familiarizing ourselves with the various features of GitHub, such as repositories, branches, commits, and pull requests.
+Enhancing Collaboration Skills: Developing teamwork skills by working on a shared codebase and managing contributions from multiple team members.
+Practical Application: Applying theoretical knowledge in a real-world context by managing a project from start to finish using GitHub.
+
+
+
+
+
 # A minimal template for data analysis with python 
 
 This is a minimal template for data analysis with python, intended to researchers in human movement sciences that are new to python.   
