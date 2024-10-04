@@ -1,3 +1,5 @@
+# PART II : MODIFICATIONS
+
 # This exercise is part of the HAH913E course unit, aimed at enhancing our skills in using GitHub for version control and collaborative projects. The objectives of this exercise include:
 
 - Understanding Version Control: Learning how to track changes in our code and collaborate effectively with others.
