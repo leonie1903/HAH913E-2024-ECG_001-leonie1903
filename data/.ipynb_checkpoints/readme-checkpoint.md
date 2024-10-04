@@ -1,8 +1,6 @@
 # Data
-
-
-- `ECG_Hz.txt` : ECG data from a healthy subject
-    - Column 0 : ECG signal
-        - Lead = I
-        - Sampling rate = 360 Hz
-        - mV per unit = 0.5
+- `ECGu.txt` : ECG data from a healthy subject
+Column 0 : ECG signal
+Lead = I II III
+Sampling rate = 1024 Hz
+µV per unit = 520
